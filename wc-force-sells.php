@@ -10,7 +10,7 @@
  * License:     GPLv2+
  * Text Domain: wc-force-sells
  * Domain Path: /i18n/languages/
- * Tested up to: 5.4
+ * Tested up to: 5.9
  * WC requires at least: 3.0.0
  * WC tested up to: 4.0.1
  */
